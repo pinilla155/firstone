@@ -1,0 +1,53 @@
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>El Señor De La Noche</title>
+    <link>https://example.org/</link>
+    <description>Recent content on El Señor De La Noche</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <managingEditor>contact@example.org (Acme Corporation)</managingEditor>
+    <webMaster>contact@example.org (Acme Corporation)</webMaster>
+    <lastBuildDate>Wed, 21 Sep 2022 09:36:43 +0200</lastBuildDate>
+    
+        <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+<title>Acercade</title>
+<link>https://example.org/acercade/</link>
+<pubDate>Wed, 21 Sep 2022 10:06:35 +0200</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>https://example.org/acercade/</guid>
+<description></description>
+<category></category></item>
+    
+    <item>
+<title>Contacto</title>
+<link>https://example.org/contacto/</link>
+<pubDate>Wed, 21 Sep 2022 09:59:31 +0200</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>https://example.org/contacto/</guid>
+<description></description>
+<category></category></item>
+    
+    <item>
+<title>Senor</title>
+<link>https://example.org/batman/senor/</link>
+<pubDate>Wed, 21 Sep 2022 09:36:43 +0200</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>https://example.org/batman/senor/</guid>
+<description></description>
+<category></category></item>
+    
+    <item>
+<title>Curriculum</title>
+<link>https://example.org/curriculum/</link>
+<pubDate>Wed, 21 Sep 2022 08:54:04 +0200</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>https://example.org/curriculum/</guid>
+<description></description>
+<category></category></item>
+    
+  </channel>
+</rss>

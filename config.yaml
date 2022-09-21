@@ -1,4 +1,55 @@
 baseURL: http://example.org/
 languageCode: es-es
 title: My New Hugo Site
-theme: Ecletic
+theme: Eclectic
+baseURL: https://example.org/
+languageCode: es-es 
+title: El Señor De La Noche 
+author: 
+  facebook: "https://facebook.com/example" 
+  twitter: "https://twitter.com/example" 
+  email: "contact@example.org" 
+  name: "Acme Corporation" 
+  location: Zaragoza
+  phone: (999) 999-9999 
+  hours: "**Lunes-Viernes** 9:00AM - 6:00PM" 
+
+menu:
+  main: 
+    - identifier: curriculum 
+      name: Curriculum
+      url: /curriculum
+      weight: 50 
+    - identifier: senor 
+      name: Senor
+      url: /batman/senor
+      weight: 50 
+    - identifier: acercade 
+      name: acerca de
+      url: /acercade
+      weight: 50 
+    - identifier: contacto
+      name: Contacto 
+      url: /contacto 
+      weight: 200 
+params: 
+  colorPickerEnabled: true
+  color: "#4f46e5"
+  copyright: "Copyright &copy; 2022 Acme Corporation. Todos los derechos reservados."
+  footer:
+  - title: About
+    content: >
+      Acme Corporation is the world's leading
+      manufacturer of digital shapes. From squares and
+      circles to triangles and hexagons, we have it
+      all. Browse through our collection of various
+      forms with different thicknesses and line styles.
+      We shape the world. You live in it.      
+
+
+  - title: Publicaciones recientes
+    recents: blog
+    recentCount: 7
+
+  - title: Contact Us
+    contact: true
